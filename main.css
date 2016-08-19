@@ -1,0 +1,87 @@
+body {
+	font: 16px Helvetica, Sans-Serif;
+}
+
+.container {
+	width: 1000px;
+	margin: 40px auto 60px;
+}
+
+.content-contact {
+	margin: 0 0 16px 0;
+	padding-left: 20px;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -1px;
+}
+.content-contactInfo {
+	float: right;
+	font-size: 16px;
+	font-weight: normal;
+	letter-spacing: normal;
+	padding-top: 1.75em;
+	padding-right: 20px;
+}
+.content-header {
+	border: solid;
+	border-width: 3px;
+	border-color: #254061;
+	color: #002060;
+	background-color: #B9CDE5;
+	font-size: 24px;
+	text-align: center;
+	padding: 7px;
+}
+.content-summary {
+	padding-top: 20px;
+	padding-left: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	line-height: 24pt;
+}
+.content-rightSummary {
+	text-align: right;
+	font-style: italic;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+.content-rightSummary-header {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 22px;
+}
+.content-summary-main {
+	text-align: left;
+	font-weight: normal;
+	line-height: 20pt;
+}
+.content-jobTitle {
+	font-weight: bold;
+	font-size: 19px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.job-date {
+	float: right;
+	font-size: 17px;
+}
+.responsibilities-achievements {
+	font-size: 17px;
+	font-weight: 500;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+.content-block-text {
+	word-wrap: break-word;
+	font-weight: normal;
+	font-size: 16px;
+	padding-right: 20px;
+}
+.content-italic {
+	font-style: italic;
+}
+.content-club {
+	float: right;
+}
